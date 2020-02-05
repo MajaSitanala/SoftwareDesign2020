@@ -38,5 +38,7 @@ namespace Lab1AGameOfCards
                 Console.WriteLine(card.SuitName + $"no {0}\n", card.Number);
             }
         }
+
+        public string PlayerName{get;}
     }
 }
