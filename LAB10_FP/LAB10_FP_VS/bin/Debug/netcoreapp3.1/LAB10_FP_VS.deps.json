@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LAB10_FP_VS/1.0.0": {
+        "runtime": {
+          "LAB10_FP_VS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB10_FP_VS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

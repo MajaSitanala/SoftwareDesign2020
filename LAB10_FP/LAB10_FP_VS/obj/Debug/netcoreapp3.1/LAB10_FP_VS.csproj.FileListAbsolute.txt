@@ -1,0 +1,11 @@
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\LAB10_FP_VS\bin\Debug\netcoreapp3.1\LAB10_FP_VS.exe
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\LAB10_FP_VS\bin\Debug\netcoreapp3.1\LAB10_FP_VS.deps.json
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\LAB10_FP_VS\bin\Debug\netcoreapp3.1\LAB10_FP_VS.runtimeconfig.json
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\LAB10_FP_VS\bin\Debug\netcoreapp3.1\LAB10_FP_VS.runtimeconfig.dev.json
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\LAB10_FP_VS\bin\Debug\netcoreapp3.1\LAB10_FP_VS.dll
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\LAB10_FP_VS\bin\Debug\netcoreapp3.1\LAB10_FP_VS.pdb
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\LAB10_FP_VS\obj\Debug\netcoreapp3.1\LAB10_FP_VS.AssemblyInfoInputs.cache
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\LAB10_FP_VS\obj\Debug\netcoreapp3.1\LAB10_FP_VS.AssemblyInfo.cs
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\LAB10_FP_VS\obj\Debug\netcoreapp3.1\LAB10_FP_VS.dll
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\LAB10_FP_VS\obj\Debug\netcoreapp3.1\LAB10_FP_VS.pdb
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\LAB10_FP_VS\obj\Debug\netcoreapp3.1\LAB10_FP_VS.csprojAssemblyReference.cache
