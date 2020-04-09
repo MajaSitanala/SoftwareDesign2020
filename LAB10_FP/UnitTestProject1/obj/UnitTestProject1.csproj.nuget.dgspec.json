@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\W 10 FP\\LAB10_FP_VS\\UnitTestProject1\\UnitTestProject1.csproj": {}
+    "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\SoftwareDesign2020\\LAB10_FP\\UnitTestProject1\\UnitTestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\W 10 FP\\LAB10_FP_VS\\LAB10_FP_VS\\Del01.csproj": {
+    "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\SoftwareDesign2020\\LAB10_FP\\LAB10_FP_VS\\Del01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\W 10 FP\\LAB10_FP_VS\\LAB10_FP_VS\\Del01.csproj",
+        "projectUniqueName": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\SoftwareDesign2020\\LAB10_FP\\LAB10_FP_VS\\Del01.csproj",
         "projectName": "Del01",
-        "projectPath": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\W 10 FP\\LAB10_FP_VS\\LAB10_FP_VS\\Del01.csproj",
+        "projectPath": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\SoftwareDesign2020\\LAB10_FP\\LAB10_FP_VS\\Del01.csproj",
         "packagesPath": "C:\\Users\\majas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\W 10 FP\\LAB10_FP_VS\\LAB10_FP_VS\\obj\\",
+        "outputPath": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\SoftwareDesign2020\\LAB10_FP\\LAB10_FP_VS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\majas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\W 10 FP\\LAB10_FP_VS\\UnitTestProject1\\UnitTestProject1.csproj": {
+    "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\SoftwareDesign2020\\LAB10_FP\\UnitTestProject1\\UnitTestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\W 10 FP\\LAB10_FP_VS\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectUniqueName": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\SoftwareDesign2020\\LAB10_FP\\UnitTestProject1\\UnitTestProject1.csproj",
         "projectName": "UnitTestProject1",
-        "projectPath": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\W 10 FP\\LAB10_FP_VS\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectPath": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\SoftwareDesign2020\\LAB10_FP\\UnitTestProject1\\UnitTestProject1.csproj",
         "packagesPath": "C:\\Users\\majas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\W 10 FP\\LAB10_FP_VS\\UnitTestProject1\\obj\\",
+        "outputPath": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\SoftwareDesign2020\\LAB10_FP\\UnitTestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\majas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,8 +81,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\W 10 FP\\LAB10_FP_VS\\LAB10_FP_VS\\Del01.csproj": {
-                "projectPath": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\W 10 FP\\LAB10_FP_VS\\LAB10_FP_VS\\Del01.csproj"
+              "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\SoftwareDesign2020\\LAB10_FP\\LAB10_FP_VS\\Del01.csproj": {
+                "projectPath": "C:\\Users\\majas\\OneDrive\\ElectricalEnginering\\7_semester\\SWD - Software Design\\SoftwareDesign2020\\LAB10_FP\\LAB10_FP_VS\\Del01.csproj"
               }
             }
           }

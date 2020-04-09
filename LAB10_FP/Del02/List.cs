@@ -64,12 +64,5 @@ namespace Del02
             }
             return l;
         }
-
-        
-        
-
-
-
-
     }
 }

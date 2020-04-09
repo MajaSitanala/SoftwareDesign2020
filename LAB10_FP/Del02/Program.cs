@@ -4,9 +4,9 @@ namespace Del02
 {
     class Program
     {
-        public static Func<int, bool> isDivisible(int n)
+        public static Func<int, bool> isIndex(int n)
         {
-            return x => x % n == 0;
+            return x => x != n;
         }
 
         static void Main(string[] args)
@@ -18,7 +18,7 @@ namespace Del02
 
             var list3 = List<int>.Drop(list2, 3);
 
-            var list4 = List<int>.DropWhile(list2, isDivisible(3));
+            var list4 = List<int>.DropWhile(list2, a => a != 2);
 
             Console.WriteLine("Hello World!");
         }

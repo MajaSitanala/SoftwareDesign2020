@@ -9,3 +9,14 @@ C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 
 C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\Del02\obj\Debug\netcoreapp3.1\Del02.AssemblyInfo.cs
 C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\Del02\obj\Debug\netcoreapp3.1\Del02.dll
 C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\W 10 FP\LAB10_FP_VS\Del02\obj\Debug\netcoreapp3.1\Del02.pdb
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\SoftwareDesign2020\LAB10_FP\Del02\bin\Debug\netcoreapp3.1\Del02.exe
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\SoftwareDesign2020\LAB10_FP\Del02\bin\Debug\netcoreapp3.1\Del02.deps.json
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\SoftwareDesign2020\LAB10_FP\Del02\bin\Debug\netcoreapp3.1\Del02.runtimeconfig.json
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\SoftwareDesign2020\LAB10_FP\Del02\bin\Debug\netcoreapp3.1\Del02.runtimeconfig.dev.json
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\SoftwareDesign2020\LAB10_FP\Del02\bin\Debug\netcoreapp3.1\Del02.dll
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\SoftwareDesign2020\LAB10_FP\Del02\bin\Debug\netcoreapp3.1\Del02.pdb
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\SoftwareDesign2020\LAB10_FP\Del02\obj\Debug\netcoreapp3.1\Del02.csprojAssemblyReference.cache
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\SoftwareDesign2020\LAB10_FP\Del02\obj\Debug\netcoreapp3.1\Del02.AssemblyInfoInputs.cache
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\SoftwareDesign2020\LAB10_FP\Del02\obj\Debug\netcoreapp3.1\Del02.AssemblyInfo.cs
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\SoftwareDesign2020\LAB10_FP\Del02\obj\Debug\netcoreapp3.1\Del02.dll
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD - Software Design\SoftwareDesign2020\LAB10_FP\Del02\obj\Debug\netcoreapp3.1\Del02.pdb
