@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "V1_MyParallelFor/1.0.0": {
+        "runtime": {
+          "V1_MyParallelFor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "V1_MyParallelFor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

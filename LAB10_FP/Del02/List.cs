@@ -60,7 +60,7 @@ namespace Del02
             var cons = (Cons<TA>)l;
             if (f(cons.X))
             {
-                DropWhile(cons.Tail, f);
+                return DropWhile(cons.Tail, f);
             }
             return l;
         }

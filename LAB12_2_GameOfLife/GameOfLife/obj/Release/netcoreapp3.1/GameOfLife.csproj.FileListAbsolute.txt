@@ -1,0 +1,12 @@
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD\W 12.2 Dependencies and Futures\GameOfLife\GameOfLife\bin\Release\netcoreapp3.1\GameOfLife.exe
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD\W 12.2 Dependencies and Futures\GameOfLife\GameOfLife\bin\Release\netcoreapp3.1\GameOfLife.deps.json
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD\W 12.2 Dependencies and Futures\GameOfLife\GameOfLife\bin\Release\netcoreapp3.1\GameOfLife.runtimeconfig.json
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD\W 12.2 Dependencies and Futures\GameOfLife\GameOfLife\bin\Release\netcoreapp3.1\GameOfLife.runtimeconfig.dev.json
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD\W 12.2 Dependencies and Futures\GameOfLife\GameOfLife\bin\Release\netcoreapp3.1\GameOfLife.dll
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD\W 12.2 Dependencies and Futures\GameOfLife\GameOfLife\bin\Release\netcoreapp3.1\GameOfLife.pdb
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD\W 12.2 Dependencies and Futures\GameOfLife\GameOfLife\obj\Release\netcoreapp3.1\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD\W 12.2 Dependencies and Futures\GameOfLife\GameOfLife\obj\Release\netcoreapp3.1\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD\W 12.2 Dependencies and Futures\GameOfLife\GameOfLife\obj\Release\netcoreapp3.1\GameOfLife.AssemblyInfo.cs
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD\W 12.2 Dependencies and Futures\GameOfLife\GameOfLife\obj\Release\netcoreapp3.1\GameOfLife.dll
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD\W 12.2 Dependencies and Futures\GameOfLife\GameOfLife\obj\Release\netcoreapp3.1\GameOfLife.pdb
+C:\Users\majas\OneDrive\ElectricalEnginering\7_semester\SWD\W 12.2 Dependencies and Futures\GameOfLife\GameOfLife\obj\Release\netcoreapp3.1\GameOfLife.genruntimeconfig.cache
